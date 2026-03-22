@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "mslearn-blazor-navigation",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
